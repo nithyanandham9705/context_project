@@ -1,0 +1,24 @@
+.home:hover {
+    color:pink;
+}
+.home{
+    font-size: 20px;
+    text-align: center;
+    overflow: auto;
+    padding: 12px;
+}
+*example{
+    box-sizing: border-box;
+}
+#cart{
+    padding: 40px;
+}
+.logo {
+    display: inline-block; 
+    vertical-align: middle;
+    margin-right: 40px;
+    height: 100%;
+}
+.center {
+    text-align: center;
+  }
